@@ -1,4 +1,4 @@
-## Create a heart with Turtle
+## Create a heart with Turtle.
 
 <br />
 
